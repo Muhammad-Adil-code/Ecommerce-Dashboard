@@ -38,6 +38,10 @@ npm run build
 
 **Muhammad Adil**
 
+- 📧 **Email**: [adil.mern.ai@gmail.com](mailto:adil.mern.ai@gmail.com)
+- 🔗 **LinkedIn**: [muhammad-adil-code](https://www.linkedin.com/in/muhammad-adil-code)
+- 🐙 **GitHub**: [Muhammad-Adil-code](https://github.com/Muhammad-Adil-code)
+
 ## 📄 License
 
 This project is licensed under the MIT License.

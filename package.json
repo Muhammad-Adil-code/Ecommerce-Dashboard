@@ -1,6 +1,21 @@
 {
   "name": "uloom",
   "version": "0.1.0",
+  "description": "Uloom - Modern eCommerce Admin Dashboard Template (React, Redux, Bootstrap)",
+  "keywords": [
+    "react",
+    "admin-dashboard",
+    "ecommerce",
+    "bootstrap",
+    "redux",
+    "sass",
+    "dashboard-template"
+  ],
+  "author": "Muhammad Adil <https://github.com/Muhammad-Adil-code>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muhammad-Adil-code/Ecommerce-Dashboard"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",

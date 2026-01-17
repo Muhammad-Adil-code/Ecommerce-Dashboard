@@ -105,7 +105,7 @@ const UiListGroup = () => {
                         </ListGroup.Item>
                       ) : i === listItem.length - 1 ? (
                         <ListGroup.Item
-                          action                          
+                          action
                           className="list-group-item-action disabled"
                         >
                           {list}
@@ -169,7 +169,7 @@ const UiListGroup = () => {
               <div className="basic-list-group">
                 <ListGroup>
                   <ListGroup.Item
-                    action                    
+                    action
                     active
                     className="flex-column align-items-start"
                   >
@@ -185,7 +185,7 @@ const UiListGroup = () => {
                     </p>
                     <small>Donec id elit non mi porta.</small>
                   </ListGroup.Item>
-                  <ListGroup.Item action  className="flex-column">
+                  <ListGroup.Item action className="flex-column">
                     <div className="d-flex w-100 justify-content-between">
                       <h5 className="mb-3">List group item heading</h5>
                       <small className="text-muted">3 days ago</small>
@@ -199,7 +199,7 @@ const UiListGroup = () => {
                     </small>
                   </ListGroup.Item>
                   <ListGroup.Item
-                    action                    
+                    action
                     className="flex-column align-items-start"
                   >
                     <div className="d-flex w-100 justify-content-between">
@@ -291,60 +291,29 @@ const UiListGroup = () => {
                         <Tab.Pane eventKey="#home">
                           <h4 className="mb-4">Home Tab Content</h4>
                           <p>
-                            Velit aute mollit ipsum ad dolor consectetur nulla
-                            officia culpa adipisicing exercitation fugiat
-                            tempor. Voluptate deserunt sit sunt nisi aliqua
-                            fugiat proident ea ut. Mollit voluptate
-                            reprehenderit occaecat nisi ad non minim tempor sunt
-                            voluptate consectetur exercitation id ut nulla. Ea
-                            et fugiat aliquip nostrud sunt incididunt
-                            consectetur culpa aliquip eiusmod dolor. Anim ad
-                            Lorem aliqua in cupidatat nisi enim eu nostrud do
-                            aliquip veniam minim.
+                            This is the content for the Home tab. It displays general information about the selected item or category. You can customize this section to show relevant details, summary statistics, or a welcome message for the user.
+                            Everything here is designed to be responsive and accessible.
                           </p>
                         </Tab.Pane>
                         <Tab.Pane eventKey="#profile">
                           <h4 className="mb-4">Profile Tab Content</h4>
                           <p>
-                            Cupidatat quis ad sint excepteur laborum in esse
-                            qui. Et excepteur consectetur ex nisi eu do cillum
-                            ad laborum. Mollit et eu officia dolore sunt Lorem
-                            culpa qui commodo velit ex amet id ex. Officia anim
-                            incididunt laboris deserunt anim aute dolor
-                            incididunt veniam aute dolore do exercitation. Dolor
-                            nisi culpa ex ad irure in elit eu dolore. Ad laboris
-                            ipsum reprehenderit irure non commodo enim culpa
-                            commodo veniam incididunt veniam ad.
+                            Here you can view the profile details. This section is ideal for displaying user information, bio, contact details, or specific settings related to the user profile.
+                            Modify this content to suit your application's user management interface.
                           </p>
                         </Tab.Pane>
                         <Tab.Pane eventKey="#messages">
                           <h4 className="mb-4">Messages Tab Content</h4>
                           <p>
-                            Ut ut do pariatur aliquip aliqua aliquip
-                            exercitation do nostrud commodo reprehenderit aute
-                            ipsum voluptate. Irure Lorem et laboris nostrud amet
-                            cupidatat cupidatat anim do ut velit mollit
-                            consequat enim tempor. Consectetur est minim nostrud
-                            nostrud consectetur irure labore voluptate irure.
-                            Ipsum id Lorem sit sint voluptate est pariatur eu ad
-                            cupidatat et deserunt culpa sit eiusmod deserunt.
-                            Consectetur et fugiat anim do eiusmod aliquip nulla
-                            laborum elit adipisicing pariatur cillum.
+                            This tab displays your recent messages and notifications. You can communicate with other users or receive system alerts here.
+                            Keep your users engaged by providing real-time updates and an easy-to-use messaging interface.
                           </p>
                         </Tab.Pane>
                         <Tab.Pane eventKey="#settings">
                           <h4 className="mb-4">Settings Tab Content</h4>
                           <p>
-                            Irure enim occaecat labore sit qui aliquip
-                            reprehenderit amet velit. Deserunt ullamco ex elit
-                            nostrud ut dolore nisi officia magna sit occaecat
-                            laboris sunt dolor. Nisi eu minim cillum occaecat
-                            aute est cupidatat aliqua labore aute occaecat ea
-                            aliquip sunt amet. Aute mollit dolor ut exercitation
-                            irure commodo non amet consectetur quis amet culpa.
-                            Quis ullamco nisi amet qui aute irure eu. Magna
-                            labore dolor quis ex labore id nostrud deserunt
-                            dolor eiusmod eu pariatur culpa mollit in irure.
+                            Configure your application settings here. You can toggle various options, manage preferences, and customize your experience.
+                            Ensure your settings are saved to apply changes across the platform.
                           </p>
                         </Tab.Pane>
                       </Tab.Content>

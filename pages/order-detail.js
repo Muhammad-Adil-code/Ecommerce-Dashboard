@@ -34,18 +34,18 @@ const OrderDetails = ({
             </h3>
             <div className="d-flex">
               <Link href="#" scroll={false}
-                 className="mb-0 text-black font-w500 fs-18">Orders/
+                className="mb-0 text-black font-w500 fs-18">Orders/
               </Link>
               <Link href="#" scroll={false}
-                 className="mb-0 font-w400 fs-18 ms-2"> Order Detaills 
+                className="mb-0 font-w400 fs-18 ms-2"> Order Detaills
               </Link>
             </div>
           </div>
         </div>
         <div className="d-flex align-items-center">
           <Link href="#" scroll={false}
-             className="btn btn-outline-danger text-nowrap rounded-0 me-3 ">
-              Cancel Order            
+            className="btn btn-outline-danger text-nowrap rounded-0 me-3 ">
+            Cancel Order
           </Link>
 
           <Dropdown className="dropdown">
@@ -102,8 +102,8 @@ const OrderDetails = ({
                           orderDetails.profile &&
                           orderDetails.profile.customar.name}
                       </h4>
-                      <Link href="#" scroll={ false} className="btn btn-outline-primary btn-sm">
-                          Customer                        
+                      <Link href="#" scroll={false} className="btn btn-outline-primary btn-sm">
+                        Customer
                       </Link>
                     </div>
                   </div>
@@ -210,17 +210,17 @@ const OrderDetails = ({
                         <Link href="#"
                           scroll={false}
                           passHref
-                        >                         
-                            <i className="las la-phone" />
-                          
+                        >
+                          <i className="las la-phone" />
+
                         </Link>
                       </li>
                       <li>
                         <Link href="#"
                           scroll={false}
                           passHref
-                        >                         
-                          <i className="las la-map-marker" />                         
+                        >
+                          <i className="las la-map-marker" />
                         </Link>
                       </li>
                     </ul>
@@ -276,8 +276,8 @@ const OrderDetails = ({
                                       <Link href="#" className="text-primary"
                                         scroll={false}
                                         passHref
-                                      > 
-                                        {d.course.toUpperCase()}                                        
+                                      >
+                                        {d.course.toUpperCase()}
                                       </Link>
                                     </small>
                                     <h5 className="mt-0 mb-2 mb-4">
@@ -287,39 +287,34 @@ const OrderDetails = ({
                                     </h5>
                                     <div className="star-review fs-14">
                                       <i
-                                        className={`fa fa-star ${
-                                          d.rating >= 1
+                                        className={`fa fa-star ${d.rating >= 1
                                             ? "text-orange"
                                             : "text-gray"
-                                        }`}
+                                          }`}
                                       />{" "}
                                       <i
-                                        className={`fa fa-star ${
-                                          d.rating >= 2
+                                        className={`fa fa-star ${d.rating >= 2
                                             ? "text-orange"
                                             : "text-gray"
-                                        }`}
+                                          }`}
                                       />{" "}
                                       <i
-                                        className={`fa fa-star ${
-                                          d.rating >= 3
+                                        className={`fa fa-star ${d.rating >= 3
                                             ? "text-orange"
                                             : "text-gray"
-                                        }`}
+                                          }`}
                                       />{" "}
                                       <i
-                                        className={`fa fa-star ${
-                                          d.rating >= 4
+                                        className={`fa fa-star ${d.rating >= 4
                                             ? "text-orange"
                                             : "text-gray"
-                                        }`}
+                                          }`}
                                       />{" "}
                                       <i
-                                        className={`fa fa-star ${
-                                          d.rating >= 5
+                                        className={`fa fa-star ${d.rating >= 5
                                             ? "text-orange"
                                             : "text-gray"
-                                        }`}
+                                          }`}
                                       />{" "}
                                       <span className="ms-3 text-dark">
                                         ({d.review} reviews)
@@ -385,7 +380,7 @@ const OrderDetails = ({
                         <h4 className="text-black font-w600 mb-0">
                           Track Orders
                         </h4>
-                        <span className="fs-12">Lorem ipsum dolor sit</span>
+                        <span className="fs-12">Order awaiting pickup by courier</span>
                       </div>
                     </div>
                     <div className="card-body">

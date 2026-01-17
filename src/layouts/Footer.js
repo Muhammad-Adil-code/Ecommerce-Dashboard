@@ -5,10 +5,10 @@ const Footer = () => {
       <div className="copyright">
         <p>
           Copyright © Designed &amp; Developed by{" "}
-          <a href="https://dexignzone.com/" target="_blank"  rel="noreferrer" >
-            DexignZone
+          <a href="https://github.com/Muhammad-Adil-code" target="_blank" rel="noreferrer" >
+            Muhammad Adil
           </a>{" "}
-          { year}
+          {year}
         </p>
       </div>
     </div>

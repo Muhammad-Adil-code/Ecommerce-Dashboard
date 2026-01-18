@@ -299,7 +299,7 @@ const UiListGroup = () => {
                           <h4 className="mb-4">Profile Tab Content</h4>
                           <p>
                             Here you can view the profile details. This section is ideal for displaying user information, bio, contact details, or specific settings related to the user profile.
-                            Modify this content to suit your application's user management interface.
+                            Modify this content to suit your application&apos;s user management interface.
                           </p>
                         </Tab.Pane>
                         <Tab.Pane eventKey="#messages">

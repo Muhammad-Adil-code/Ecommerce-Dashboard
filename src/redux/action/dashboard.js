@@ -131,7 +131,7 @@ export const addCustomer = (data) => (dispatch) => {
 export const getAnalytic = () => async (dispatch) => {
   try {
     const res = await axios.get(
-      "https://api.npoint.io/fbc14eee7441f3b8877b/dashboard/analytics"
+      "/static/dashboard_analytics.json"
     );
     dispatch({
       type: ANALYTICS,

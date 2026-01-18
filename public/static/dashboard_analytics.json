@@ -1,0 +1,534 @@
+{
+    "charts": {
+        "revenue": {
+            "data": [
+                500,
+                500,
+                200,
+                200,
+                600,
+                600,
+                1000,
+                1000,
+                300,
+                300,
+                500,
+                500
+            ],
+            "name": "Revenue"
+        },
+        "customer": {
+            "name": "Customer Map",
+            "chartData": [
+                {
+                    "data": [
+                        80,
+                        24,
+                        80,
+                        90
+                    ],
+                    "name": "Income"
+                },
+                {
+                    "data": [
+                        40,
+                        60,
+                        20,
+                        60
+                    ],
+                    "name": "Expense"
+                },
+                {
+                    "data": [
+                        20,
+                        17,
+                        5,
+                        20
+                    ],
+                    "name": "Others"
+                }
+            ]
+        },
+        "salesSummary": {
+            "data": [
+                300,
+                450,
+                600,
+                600,
+                400,
+                450,
+                410,
+                470,
+                480,
+                800,
+                600,
+                900,
+                400
+            ],
+            "name": "Sales Summary"
+        }
+    },
+    "fvtItem": {
+        "data": [
+            {
+                "data": [
+                    {
+                        "img": "/images/card/Untitled-10.jpg",
+                        "title": "Mozarella Pizza with Random Topping",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "drink",
+                            "dessert",
+                            "more"
+                        ],
+                        "chartValue": 85,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-11.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "pizza",
+                            "drink",
+                            "dessert"
+                        ],
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-12.jpg",
+                        "title": "Watermelon Juice with Ice",
+                        "rating": 2,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "dessert"
+                        ],
+                        "chartValue": 75,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-12.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza"
+                        ],
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    }
+                ],
+                "name": "all_categories"
+            },
+            {
+                "data": [
+                    {
+                        "img": "/images/card/Untitled-10.jpg",
+                        "title": "Mozarella Pizza with Random Topping",
+                        "rating": 3,
+                        "review": 454,
+                        "chartValue": 85,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-11.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-12.jpg",
+                        "title": "Watermelon Juice with Ice",
+                        "rating": 2,
+                        "review": 454,
+                        "chartValue": 75,
+                        "totalSells": "2,441"
+                    }
+                ],
+                "name": "main-course"
+            },
+            {
+                "data": [
+                    {
+                        "img": "/images/card/Untitled-10.jpg",
+                        "title": "Mozarella Pizza with Random Topping",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "drink",
+                            "dessert",
+                            "more"
+                        ],
+                        "chartValue": 85,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-11.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "pizza",
+                            "drink",
+                            "dessert"
+                        ],
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-12.jpg",
+                        "title": "Watermelon Juice with Ice",
+                        "rating": 2,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "dessert"
+                        ],
+                        "chartValue": 75,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-12.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza"
+                        ],
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    }
+                ],
+                "name": "pizza"
+            },
+            {
+                "data": [
+                    {
+                        "img": "/images/card/Untitled-10.jpg",
+                        "title": "Mozarella Pizza with Random Topping",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "drink",
+                            "dessert",
+                            "more"
+                        ],
+                        "chartValue": 85,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-11.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "pizza",
+                            "drink",
+                            "dessert"
+                        ],
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    }
+                ],
+                "name": "drink"
+            },
+            {
+                "data": [
+                    {
+                        "img": "/images/card/Untitled-10.jpg",
+                        "title": "Mozarella Pizza with Random Topping",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "drink",
+                            "dessert",
+                            "more"
+                        ],
+                        "chartValue": 85,
+                        "totalSells": "2,441"
+                    },
+                    {
+                        "img": "/images/card/Untitled-11.jpg",
+                        "title": "Extreme Deluxe Pizza Super With Mozarella",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "pizza",
+                            "drink",
+                            "dessert"
+                        ],
+                        "chartValue": 45,
+                        "totalSells": "2,441"
+                    }
+                ],
+                "name": "dessert"
+            },
+            {
+                "data": [
+                    {
+                        "img": "/images/card/Untitled-10.jpg",
+                        "title": "Mozarella Pizza with Random Topping",
+                        "rating": 3,
+                        "review": 454,
+                        "categories": [
+                            "main",
+                            "pizza",
+                            "drink",
+                            "dessert",
+                            "more"
+                        ],
+                        "chartValue": 85,
+                        "totalSells": "2,441"
+                    }
+                ],
+                "name": "more"
+            }
+        ],
+        "name": "Most Favorites Items",
+        "categories": [
+            {
+                "name": "All Categories",
+                "event": "all_categories"
+            },
+            {
+                "name": "Main Course",
+                "event": "main-course"
+            },
+            {
+                "name": "Pizza",
+                "event": "pizza"
+            },
+            {
+                "name": "Drink",
+                "event": "drink"
+            },
+            {
+                "name": "Dessert",
+                "event": "dessert"
+            },
+            {
+                "name": "More",
+                "event": "more"
+            }
+        ]
+    },
+    "bestseler": {
+        "data": [
+            {
+                "img": "/images/card/Untitled-7.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-9.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-7.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-9.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-7.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-9.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-7.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-9.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            },
+            {
+                "img": "/images/card/Untitled-8.jpg",
+                "likes": "256",
+                "price": "6.53",
+                "sells": "6,273",
+                "title": "Medium Spicy Pizza with Kemangi Leaf"
+            }
+        ],
+        "name": "Best seler menus"
+    },
+    "trendingMenus": {
+        "data": [
+            {
+                "img": "/images/menu/Untitled-1.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Chicken curry special with cucumber"
+            },
+            {
+                "img": "/images/menu/Untitled-2.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Italiano Pizza With Garlic"
+            },
+            {
+                "img": "/images/menu/Untitled-3.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Watermelon juice with ice"
+            },
+            {
+                "img": "/images/menu/Untitled-4.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Tuna Soup spinach with himalaya salt"
+            },
+            {
+                "img": "/images/menu/Untitled-5.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Medium Spicy Spagethi Italiano"
+            },
+            {
+                "img": "/images/menu/Untitled-1.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Chicken curry special with cucumber"
+            },
+            {
+                "img": "/images/menu/Untitled-2.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Italiano Pizza With Garlic"
+            },
+            {
+                "img": "/images/menu/Untitled-3.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Watermelon juice with ice"
+            }
+        ],
+        "name": "Daily Trending Menus",
+        "subHeading": "Performance metrics for top menu items"
+    },
+    "loyalCustomers": {
+        "data": [
+            {
+                "img": "/images/profile/Untitled-10.jpg",
+                "name": "Alexzander Queqe",
+                "totalOrder": 651
+            },
+            {
+                "img": "/images/profile/Untitled-11.jpg",
+                "name": "Bella Simatupang",
+                "totalOrder": 356
+            },
+            {
+                "img": "/images/profile/Untitled-13.jpg",
+                "name": "Kevin Jamet",
+                "totalOrder": 78
+            },
+            {
+                "img": "/images/profile/Untitled-11.jpg",
+                "name": "Bella Simatupang",
+                "totalOrder": 651
+            },
+            {
+                "img": "/images/profile/Untitled-12.jpg",
+                "name": "Jordi Alaba",
+                "totalOrder": 125
+            }
+        ],
+        "name": "Loyal Customers"
+    }
+}

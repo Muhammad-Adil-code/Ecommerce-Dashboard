@@ -1,0 +1,541 @@
+{
+    "charts": {
+        "widget1": {
+            "data": [
+                500,
+                500,
+                400,
+                400,
+                600,
+                600,
+                300,
+                300,
+                500,
+                500,
+                700,
+                700
+            ],
+            "name": "Orders",
+            "value": "892",
+            "overview": "+2.7"
+        },
+        "widget2": {
+            "data": [
+                500,
+                500,
+                300,
+                300,
+                600,
+                600,
+                400,
+                400,
+                200,
+                200,
+                500,
+                500
+            ],
+            "name": "Customers",
+            "value": "9,334 ",
+            "overview": -0.5
+        },
+        "widget3": {
+            "data": [
+                300,
+                300,
+                400,
+                400,
+                200,
+                200,
+                400,
+                400,
+                500,
+                500,
+                700,
+                700
+            ],
+            "name": "Menu",
+            "value": "524"
+        },
+        "customerMap": {
+            "data": {
+                "today": [
+                    {
+                        "data": [
+                            80,
+                            24,
+                            80,
+                            90,
+                            80,
+                            70,
+                            20,
+                            85,
+                            80,
+                            45,
+                            25,
+                            65
+                        ],
+                        "name": "Income"
+                    },
+                    {
+                        "data": [
+                            40,
+                            60,
+                            20,
+                            60,
+                            60,
+                            20,
+                            60,
+                            25,
+                            40,
+                            65,
+                            15,
+                            40
+                        ],
+                        "name": "Expense"
+                    },
+                    {
+                        "data": [
+                            20,
+                            17,
+                            5,
+                            20,
+                            20,
+                            10,
+                            15,
+                            10,
+                            15,
+                            20,
+                            60,
+                            15
+                        ],
+                        "name": "Others"
+                    }
+                ],
+                "weekly": [
+                    {
+                        "data": [
+                            80,
+                            24,
+                            80,
+                            90,
+                            80,
+                            70,
+                            20,
+                            85,
+                            80,
+                            45,
+                            25,
+                            65
+                        ],
+                        "name": "Income"
+                    },
+                    {
+                        "data": [
+                            40,
+                            60,
+                            20,
+                            60,
+                            60,
+                            20,
+                            60,
+                            25,
+                            40,
+                            65,
+                            15,
+                            40
+                        ],
+                        "name": "Expense"
+                    },
+                    {
+                        "data": [
+                            20,
+                            17,
+                            5,
+                            20,
+                            20,
+                            10,
+                            15,
+                            10,
+                            15,
+                            20,
+                            60,
+                            15
+                        ],
+                        "name": "Others"
+                    }
+                ],
+                "monthly": [
+                    {
+                        "data": [
+                            80,
+                            24,
+                            80,
+                            90,
+                            80,
+                            70,
+                            20,
+                            85,
+                            80,
+                            45,
+                            25,
+                            65
+                        ],
+                        "name": "Income"
+                    },
+                    {
+                        "data": [
+                            40,
+                            60,
+                            20,
+                            60,
+                            60,
+                            20,
+                            60,
+                            25,
+                            40,
+                            65,
+                            15,
+                            40
+                        ],
+                        "name": "Expense"
+                    },
+                    {
+                        "data": [
+                            20,
+                            17,
+                            5,
+                            20,
+                            20,
+                            10,
+                            15,
+                            10,
+                            15,
+                            20,
+                            60,
+                            15
+                        ],
+                        "name": "Others"
+                    }
+                ]
+            },
+            "name": "Customer Map",
+            "subHeading": "Geographic distribution of customers across regions."
+        },
+        "dailyTargetChart": {
+            "data": [
+                70
+            ],
+            "name": "Daily Target Income",
+            "value": 749.56,
+            "details": "Daily revenue performance against set targets.",
+            "subHeading": "Daily Revenue Target",
+            "heightValue": "1,000"
+        }
+    },
+    "trendingMenus": {
+        "data": [
+            {
+                "img": "/images/menu/Untitled-1.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Chicken curry special with cucumber"
+            },
+            {
+                "img": "/images/menu/Untitled-2.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Italiano Pizza With Garlic"
+            },
+            {
+                "img": "/images/menu/Untitled-3.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Watermelon juice with ice"
+            },
+            {
+                "img": "/images/menu/Untitled-4.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Tuna Soup spinach with himalaya salt"
+            },
+            {
+                "img": "/images/menu/Untitled-5.jpg",
+                "order": 89,
+                "price": 5.6,
+                "title": "Medium Spicy Spagethi Italiano"
+            }
+        ],
+        "name": "Daily Trending Menus",
+        "subHeading": "Top selling items this week"
+    },
+    "recentOrderRequest": {
+        "data": [
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Sweet Cheezy Pizza for Kids Meal (Small Size)",
+                "author": "Peter Parkur",
+                "status": "PENDING",
+                "location": "South Corner st41256 london",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-2.jpg",
+                "price": 7.4,
+                "title": "Tuna soup spinach with himalaya salt",
+                "author": "Jimmy Kueai",
+                "status": "PENDING",
+                "location": "South Corner St.41256 London",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-3.jpg",
+                "price": 8.2,
+                "title": "Extreme Deluxe Pizza Mozarella with Garlic",
+                "author": "Cindy Alexa",
+                "status": "DELIVERED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "success",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Mozarella Pizza With Random Topping",
+                "author": "Cindy Alexa",
+                "status": "CANCELED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "light",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Sweet Cheezy Pizza for Kids Meal (Small Size)",
+                "author": "Peter Parkur",
+                "status": "PENDING",
+                "location": "South Corner st41256 london",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-2.jpg",
+                "price": 7.4,
+                "title": "Tuna soup spinach with himalaya salt",
+                "author": "Jimmy Kueai",
+                "status": "PENDING",
+                "location": "South Corner St.41256 London",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-3.jpg",
+                "price": 8.2,
+                "title": "Extreme Deluxe Pizza Mozarella with Garlic",
+                "author": "Cindy Alexa",
+                "status": "DELIVERED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "success",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Mozarella Pizza With Random Topping",
+                "author": "Cindy Alexa",
+                "status": "CANCELED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "light",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Sweet Cheezy Pizza for Kids Meal (Small Size)",
+                "author": "Peter Parkur",
+                "status": "PENDING",
+                "location": "South Corner st41256 london",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-2.jpg",
+                "price": 7.4,
+                "title": "Tuna soup spinach with himalaya salt",
+                "author": "Jimmy Kueai",
+                "status": "PENDING",
+                "location": "South Corner St.41256 London",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-3.jpg",
+                "price": 8.2,
+                "title": "Extreme Deluxe Pizza Mozarella with Garlic",
+                "author": "Cindy Alexa",
+                "status": "DELIVERED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "success",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Mozarella Pizza With Random Topping",
+                "author": "Cindy Alexa",
+                "status": "CANCELED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "light",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Sweet Cheezy Pizza for Kids Meal (Small Size)",
+                "author": "Peter Parkur",
+                "status": "PENDING",
+                "location": "South Corner st41256 london",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-2.jpg",
+                "price": 7.4,
+                "title": "Tuna soup spinach with himalaya salt",
+                "author": "Jimmy Kueai",
+                "status": "PENDING",
+                "location": "South Corner St.41256 London",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-3.jpg",
+                "price": 8.2,
+                "title": "Extreme Deluxe Pizza Mozarella with Garlic",
+                "author": "Cindy Alexa",
+                "status": "DELIVERED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "success",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Mozarella Pizza With Random Topping",
+                "author": "Cindy Alexa",
+                "status": "CANCELED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "light",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Sweet Cheezy Pizza for Kids Meal (Small Size)",
+                "author": "Peter Parkur",
+                "status": "PENDING",
+                "location": "South Corner st41256 london",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-2.jpg",
+                "price": 7.4,
+                "title": "Tuna soup spinach with himalaya salt",
+                "author": "Jimmy Kueai",
+                "status": "PENDING",
+                "location": "South Corner St.41256 London",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-3.jpg",
+                "price": 8.2,
+                "title": "Extreme Deluxe Pizza Mozarella with Garlic",
+                "author": "Cindy Alexa",
+                "status": "DELIVERED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "success",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Mozarella Pizza With Random Topping",
+                "author": "Cindy Alexa",
+                "status": "CANCELED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "light",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Sweet Cheezy Pizza for Kids Meal (Small Size)",
+                "author": "Peter Parkur",
+                "status": "PENDING",
+                "location": "South Corner st41256 london",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-2.jpg",
+                "price": 7.4,
+                "title": "Tuna soup spinach with himalaya salt",
+                "author": "Jimmy Kueai",
+                "status": "PENDING",
+                "location": "South Corner St.41256 London",
+                "statusColor": "warning",
+                "serialNumber": "0010235",
+                "numberOfOrder": 3
+            },
+            {
+                "img": "/images/card/Untitled-3.jpg",
+                "price": 8.2,
+                "title": "Extreme Deluxe Pizza Mozarella with Garlic",
+                "author": "Cindy Alexa",
+                "status": "DELIVERED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "success",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            },
+            {
+                "img": "/images/card/Untitled-1.jpg",
+                "price": 7.4,
+                "title": "Mozarella Pizza With Random Topping",
+                "author": "Cindy Alexa",
+                "status": "CANCELED",
+                "location": "Blue Ocean St.41551 London",
+                "statusColor": "light",
+                "serialNumber": "0010235",
+                "numberOfOrder": 1
+            }
+        ],
+        "name": "Recent Order Request",
+        "subHeading": "Latest incoming orders"
+    }
+}

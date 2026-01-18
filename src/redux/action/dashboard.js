@@ -21,7 +21,7 @@ import {
 export const getDashboardData = () => async (dispatch) => {
   try {
     const res = await axios.get(
-      `https://api.npoint.io/fbc14eee7441f3b8877b/dashboard/indexPage`
+      `/static/dashboard_index.json`
     );
     //  Charts
     res.data.charts.dailyTargetChart.name = "Revenue Target";
